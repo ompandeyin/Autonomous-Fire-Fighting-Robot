@@ -66,27 +66,34 @@ Control implemented using Embedded C (Arduino IDE).
 
 ## 📂 Project Structure
 
-Autonomous-Fire-Fighting-Robot/
+Autonomous-Fire-Fighting-Robot
 │
-├── block-diagram/
-│ └── block_diagram.png
+├── 📂 block-diagram
+│   └── block_diagram.png
 │
-├── circuit-diagram/
-│ └── circuit_diagram.png
+├── 📂 circuit-diagram
+│   └── circuit_diagram.png
 │
-├── code/
-│ └── fire_fighting_robot.ino
+├── 📂 code
+│   └── fire_fighting_robot.ino
 │
-├── images/
-│ ├── robot_front_view.jpg
-│ └── robot_top_view.jpg
+├── 📂 images
+│   ├── robot_front_view.jpg
+│   └── robot_top_view.jpg
 │
-├── demo/
-│ └── demo_link.txt
+├── 📂 demo
+│   └── demo_link.txt
 │
 └── README.md
 
 
+### 📌 Folder Description
+
+- **block-diagram/** → System architecture overview  
+- **circuit-diagram/** → Hardware wiring connections  
+- **code/** → Arduino embedded control logic  
+- **images/** → Robot visuals (front & top view)  
+- **demo/** → Demonstration video link  
 
 
 ---
@@ -102,6 +109,8 @@ Autonomous-Fire-Fighting-Robot/
 ---
 
 ## 🎥 Demo Video
+
+Final Structure Link: *(https://drive.google.com/file/d/1DX1uqiA_QuCPiQYGvBv-pxTQHsugg_2r/view?usp=sharing)*
 
 Demo Link: *(https://drive.google.com/file/d/194iEqIM6P0hewS7NzqkATR1v3pVAi7m6/view?usp=sharing)*
 
