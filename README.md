@@ -1,4 +1,4 @@
-# 🔥 Autonomous Fire-Fighting Robot
+<h1 align="center">🔥 Autonomous Fire-Fighting Robot</h1>
 
 Arduino-based autonomous robotic system designed to detect and extinguish small-scale indoor fires using multi-sensor integration and real-time embedded control logic.
 
@@ -94,6 +94,17 @@ Autonomous-Fire-Fighting-Robot
 - **code/** → Arduino embedded control logic  
 - **images/** → Robot visuals (front & top view)  
 - **demo/** → Demonstration video link  
+
+
+## 🧠 Control Logic Flow
+
+1. Read flame sensor values
+2. Detect fire direction (Left / Front / Right)
+3. Navigate toward fire source
+4. Stop robot
+5. Activate water pump
+6. Servo sweeps to extinguish flame
+7. Resume scanning mode
 
 
 ---
